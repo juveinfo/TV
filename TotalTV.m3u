@@ -1,18 +1,4 @@
 #EXTM3U url-tvg="https://live.fanmingming.com/e.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://111.229.145.218:8888/down/01lxbr9mmO1l.m3u
-
-#EXTINF:-1 tvg-name="微信客服：jzpf444" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="售后微信：jzpf444",售后微信：jzpf444
-https://jzpf-1.jzpf.top/%E8%A7%86%E9%A2%91/zhiboyuan.mp4
-#EXTINF:-1 tvg-name="微信客服：jzpf444" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="售后微信：jzpf444",闲鱼店铺：iOS玩玩鸡
-https://jzpf-1.jzpf.top/%E8%A7%86%E9%A2%91/zhiboyuan.mp4
-#EXTINF:-1 tvg-name="闲鱼店铺：iOS玩玩鸡" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="售后微信：jzpf444",其他店铺购买均为盗版
-https://jzpf-1.jzpf.top/%E8%A7%86%E9%A2%91/zhiboyuan.mp4
-#EXTINF:-1 tvg-name="其他店铺购买均为盗版" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="售后微信：jzpf444",买到盗版请立即申请退款
-https://jzpf-1.jzpf.top/%E8%A7%86%E9%A2%91/zhiboyuan.mp4
-#EXTINF:-1 tvg-name="限制3台设备同时在线，超出全部失效" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="售后微信：jzpf444",限制3台设备同时在线
-https://jzpf-1.jzpf.top/%E8%A7%86%E9%A2%91/zhiboyuan.mp4
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐔玩玩鸡自建",CCTV1
 http://www.51romzj.shop:666/zb/031720/bstv2.php?/PLTV/&ip=&id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🐔玩玩鸡自建",CCTV2
