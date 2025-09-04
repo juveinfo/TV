@@ -16,3 +16,8 @@ Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv
 🌐M3U8 Web Player:
 Demo🔗 https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8
 
+powershell
+curl https://raw.githubusercontent.com/juveinfo/TV/main/TotalTV_250905.m3u -o TotalTV_250905.txt
+
+
+
