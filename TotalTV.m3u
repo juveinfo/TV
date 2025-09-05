@@ -1,13 +1,13 @@
-﻿#EXTM3U x-tvg-url="http://epg.myxcwh.com:5678/t.xml"
-#EXTINF:-1 group-title="账户信息" tvg-name="列表获取时间:09.05 00:09:14" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,列表获取时间:09.05 00:09:14
+#EXTM3U x-tvg-url="http://epg.myxcwh.com:5678/t.xml"
+#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="列表获取时间:09.05 20:29:08" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,列表获取时间:09.05 20:29:08
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息" tvg-name="续费/售后加微信" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,续费/售后加微信
+#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="续费/售后加微信" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,续费/售后加微信
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息" tvg-name="Token:1Sepm9J7qusfXVtH" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,Token:1Sepm9J7qusfXVtH
+#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="Token:1Sepm9J7qusfXVtH(Svip)" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,Token:1Sepm9J7qusfXVtH(Svip)
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息" tvg-name="开通日期:2025-09-04" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,开通日期:2025-09-04
+#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="开通日期:2025-09-04" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,开通日期:2025-09-04
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息" tvg-name="距离到期:29天" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,距离到期:29天
+#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="距离到期:29天" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,距离到期:29天
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://14.103.144.66:5678/data/icon/CCTV1.png",CCTV1
 http://8.153.173.168/php/bstaa.php?/PLTV/&id=CCTV1&token=1Sepm9J7qusfXVtH
@@ -243,536 +243,520 @@ http://8.153.173.168/php/bstaa.php?/PLTV/&id=bst09&token=1Sepm9J7qusfXVtH
 http://8.153.173.168/php/bstaa.php?/PLTV/&id=bst10&token=1Sepm9J7qusfXVtH
 #EXTINF:-1 group-title="其它频道" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",百视通11
 http://8.153.173.168/php/bstaa.php?/PLTV/&id=bst11&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日01:30-男篮欧洲杯B组小组赛-芬兰vs德国-孔祥宇
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-国际信号-现场原声
 http://8.153.173.168/php/bingcty.php?id=2&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日01:30-男篮欧洲杯B组小组赛-芬兰vs德国-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-阿姆斯特朗球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=3&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日02:15-男篮欧洲杯A组小组赛-土耳其vs塞尔维亚-王嘉琦
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-7号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=4&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日02:15-男篮欧洲杯A组小组赛-土耳其vs塞尔维亚-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-8号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=5&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日03:30美网-2025美网1/4决赛-阿尼西莫娃vs斯瓦泰克-中文-邱超-张文悦
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-9号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=6&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日03:30美网-2025美网1/4决赛-阿尼西莫娃vs斯瓦泰克-中文-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-10号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=7&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日07:00美网-2025美网1/4决赛-穆霍娃vs大坂直美-中文-陈驰-胡力涛
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-11号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=8&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日07:00美网-2025美网1/4决赛-穆霍娃vs大坂直美-中文-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-12号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=9&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日07:30-WNBA常规赛-洛杉矶火花vs亚特兰大梦想
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-13号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=10&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日08:00-WNBA常规赛-康涅狄格阳光vs芝加哥天空
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-14号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=11&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日09:00美网-2025美网1/4决赛-辛纳vs穆塞蒂-中文-邱超-胡力涛
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00美网-2025美网第12日-15号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=12&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日09:00美网-2025美网1/4决赛-辛纳vs穆塞蒂-中文-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-路易斯阿姆斯特朗球场-清流-
 http://8.153.173.168/php/bingcty.php?id=13&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日11:00-WTA125长沙站第四日-WTA125长沙站第四日-清流播出
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡vs佩古拉-解说-
 http://8.153.173.168/php/bingcty.php?id=14&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日-12:00-早安美网-第11期-早安美网-第11期-早安美网-第11期
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-大坂直美vs阿尼西莫娃-解说-
 http://8.153.173.168/php/bingcty.php?id=15&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：立陶宛vs瑞典
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-大坂直美vs阿尼西莫娃-清流-
 http://8.153.173.168/php/bingcty.php?id=16&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-周泽昊-周冠达
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-大坂直美vs阿尼西莫娃-英文解说-
 http://8.153.173.168/php/bingcty.php?id=17&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-1号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-阿瑟阿什球场-清流-
 http://8.153.173.168/php/bingcty.php?id=18&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-2号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日00:00-美国网球公开赛女单半决赛及男女双打半决赛：萨巴伦卡PK佩古拉-大坂直美冲决赛-萨巴伦卡PK佩古拉-大坂直美冲决赛-阿瑟阿什球场-英文解说-
 http://8.153.173.168/php/bingcty.php?id=19&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-3号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-2025斯诺克北爱尔兰公开赛资格赛Day1回放：山姆·克雷吉4-1乔·康诺利
 http://8.153.173.168/php/bingcty.php?id=20&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-4号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-2025斯诺克北爱尔兰公开赛资格赛Day1回放：朱利安·勒克莱4-2弗洛里安·努斯勒
 http://8.153.173.168/php/bingcty.php?id=21&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-英文解说
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-海顿·平尼0-4伊安·伯恩斯
 http://8.153.173.168/php/bingcty.php?id=22&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日14:00-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-纵歌曼vs桥本帆乃香-钱天一一日三赛-AI字幕测试
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-哈里斯·塔希尔4-0康纳·本齐
 http://8.153.173.168/php/bingcty.php?id=23&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日16:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：立陶宛vs瑞典
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-法拉赫·阿贾布4-3奥利弗·布朗
 http://8.153.173.168/php/bingcty.php?id=24&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:00-斯诺克北爱尔兰公开赛资格赛：达赫迪、傅家俊出战-白雨露凌晨登场-达赫迪、傅家俊出战-白雨露凌晨登场-1号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-克里斯·托顿0-4利亚姆·格雷姆
 http://8.153.173.168/php/bingcty.php?id=25&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:00-斯诺克北爱尔兰公开赛资格赛：达赫迪、傅家俊出战-白雨露凌晨登场-达赫迪、傅家俊出战-白雨露凌晨登场-朱峰立
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-阿米尔·萨克霍什2-4傅家俊
 http://8.153.173.168/php/bingcty.php?id=26&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:00-斯诺克北爱尔兰公开赛资格赛：达赫迪、傅家俊出战-白雨露凌晨登场-达赫迪、傅家俊出战-白雨露凌晨登场-2号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-阿米尔·萨克霍什2-4傅家俊-朱峰立-
 http://8.153.173.168/php/bingcty.php?id=27&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:00-斯诺克北爱尔兰公开赛资格赛：达赫迪、傅家俊出战-白雨露凌晨登场-达赫迪、傅家俊出战-白雨露凌晨登场-3号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-安东尼·科瓦尔斯基4-0扎克·谢尔顿
 http://8.153.173.168/php/bingcty.php?id=28&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:00-斯诺克北爱尔兰公开赛资格赛：达赫迪、傅家俊出战-白雨露凌晨登场-达赫迪、傅家俊出战-白雨露凌晨登场-4号桌
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-蓝裕豪4-2马哈茂德·埃尔·哈马迪
 http://8.153.173.168/php/bingcty.php?id=29&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-官方解说
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-肯·达赫迪1-4姚朋成
 http://8.153.173.168/php/bingcty.php?id=30&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-清流
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-阿卡尼·宋沙瓦4-2许医尘
 http://8.153.173.168/php/bingcty.php?id=31&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角1
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:00-斯诺克北爱尔兰公开赛资格赛：傅家俊晋级-白雨露凌晨登场-傅家俊晋级-白雨露凌晨登场-回放-阿兰·泰勒4-1恰查蓬·纳萨
 http://8.153.173.168/php/bingcty.php?id=32&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角2
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30世欧预-保加利亚vs西班牙-熊冰杰-蔡惠强-朱迟蕊
 http://8.153.173.168/php/bingcty.php?id=33&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角3
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30世欧预-保加利亚vs西班牙-English-Commentary
 http://8.153.173.168/php/bingcty.php?id=34&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-地图流
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30-男篮欧洲杯D组小组赛-波兰vs比利时-彭磊
 http://8.153.173.168/php/bingcty.php?id=35&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第1比赛日
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30-男篮欧洲杯D组小组赛-波兰vs比利时-英文原声
 http://8.153.173.168/php/bingcty.php?id=36&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第1比赛日-第一视角1
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30-男篮欧洲杯C组小组赛-西班牙vs希腊-寇逸豪
 http://8.153.173.168/php/bingcty.php?id=37&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第1比赛日-第一视角2
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:30-男篮欧洲杯C组小组赛-西班牙vs希腊-英文原声
 http://8.153.173.168/php/bingcty.php?id=38&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第1比赛日-第一视角3
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-卢森堡vs北爱尔兰-English-Commentary
 http://8.153.173.168/php/bingcty.php?id=39&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日18:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：黑山共和国vs英国
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-列支敦士登vs比利时-肖天宇
 http://8.153.173.168/php/bingcty.php?id=40&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-香港金牛vs石家庄翔蓝
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-列支敦士登vs比利时-English-Commentary
 http://8.153.173.168/php/bingcty.php?id=41&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-精选回顾-2024美网男单1/4决赛：辛纳VS梅德韦杰夫-精选回顾：辛纳VS梅德韦杰夫-李宁-邱超
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-荷兰vs波兰-陈瑞阳
 http://8.153.173.168/php/bingcty.php?id=42&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL半决赛-香港金牛-VS-石家庄翔蓝-解说
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-荷兰vs波兰-陈文森
 http://8.153.173.168/php/bingcty.php?id=43&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL半决赛-香港金牛-VS-石家庄翔蓝-清流播出
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-荷兰vs波兰-English-Commentary
 http://8.153.173.168/php/bingcty.php?id=44&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00美网-2025早安美网-第11期-陈君乐-莉宝
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-斯洛伐克vs德国-李家成
 http://8.153.173.168/php/bingcty.php?id=45&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯D组小组赛-法国vs冰岛-王嘉琦-李克
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日02:40世欧预-斯洛伐克vs德国-English-Commentary
 http://8.153.173.168/php/bingcty.php?id=46&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯D组小组赛-法国vs冰岛-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日07:00美网-2025美网女单半决赛-萨巴伦卡vs佩古拉-中文-陈驰-胡力涛
 http://8.153.173.168/php/bingcty.php?id=47&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯C组小组赛-波斯尼亚和黑塞哥维那vs格鲁吉亚-石楷文
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日07:00美网-2025美网女单半决赛-萨巴伦卡vs佩古拉-中文-现场原声
 http://8.153.173.168/php/bingcty.php?id=48&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯C组小组赛-波斯尼亚和黑塞哥维那vs格鲁吉亚-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日07:00美网-2025美网第12日-阿瑟·阿什球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=49&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：黑山共和国vs英国
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日07:30-WNBA常规赛-菲尼克斯水星vs华盛顿神秘人
 http://8.153.173.168/php/bingcty.php?id=50&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日21:55世欧预-哈萨克斯坦vs威尔士-English-Commentary
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日08:20-NFL常规赛-牛仔vs老鹰-王子星-萧深-邢天宇
 http://8.153.173.168/php/bingcty.php?id=51&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:00-男篮欧洲杯D组小组赛-以色列vs斯洛文尼亚-王子星-王仕鹏-果果
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日08:20-NFL常规赛-牛仔vs老鹰-英文解说
 http://8.153.173.168/php/bingcty.php?id=52&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:00-男篮欧洲杯D组小组赛-以色列vs斯洛文尼亚-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日09:00美网-2025美网女单半决赛-大坂直美vs阿尼西莫娃-中文-陈驰-胡力涛
 http://8.153.173.168/php/bingcty.php?id=53&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:15-男篮欧洲杯C组小组赛-意大利vs塞浦路斯-郑诚
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日09:00美网-2025美网女单半决赛-大坂直美vs阿尼西莫娃-中文-现场原声
 http://8.153.173.168/php/bingcty.php?id=54&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:15-男篮欧洲杯C组小组赛-意大利vs塞浦路斯-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日09:15-2025年全国游泳锦标赛Day1：男子50蝶400自等多项预赛半决赛-男子50蝶400自等多项预赛半决赛-解说
 http://8.153.173.168/php/bingcty.php?id=55&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:55世欧预-立陶宛vs马耳他-English-Commentary
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日10:00-WNBA常规赛-达拉斯飞翼vs金州瓦尔基里-沈知渝-李雪儿
 http://8.153.173.168/php/bingcty.php?id=56&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:55世欧预-格鲁吉亚vs土耳其-陈扬
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日10:00-WNBA常规赛-达拉斯飞翼vs金州瓦尔基里-英文原声
 http://8.153.173.168/php/bingcty.php?id=57&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:55世欧预-格鲁吉亚vs土耳其-English-Commentary
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日10:00-WNBA常规赛-明尼苏达山猫vs拉斯维加斯王牌-辰辰
 http://8.153.173.168/php/bingcty.php?id=58&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:30美网-2025美网1/4决赛-阿利亚西姆vs德米纳尔-中文-邱超-张文悦
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日10:00-WNBA常规赛-明尼苏达山猫vs拉斯维加斯王牌-英文原声
+http://8.153.173.168/php/bingcty.php?id=59&token=1Sepm9J7qusfXVtH
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日11:00-NBA拉拉队选拔节目-下一顺位是她-第一期：45位拉拉队选手挑战沙滩斯巴达
 http://8.153.173.168/php/bingcty.php?id=60&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:30美网-2025美网1/4决赛-阿利亚西姆vs德米纳尔-中文-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日11:00-WTA125长沙站第五日-WTA125长沙站第五日-清流播出
 http://8.153.173.168/php/bingcty.php?id=61&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:30美网-2025美网第11日-阿瑟·阿什球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日-12:00-早安美网-第12期-早安美网-第12期-早安美网-第12期
 http://8.153.173.168/php/bingcty.php?id=62&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-国际信号-英文解说
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日13:00-超三联赛-屈原故里秭归争霸赛-小组赛Day1下午场-李嘉伟-王冠证
 http://8.153.173.168/php/bingcty.php?id=63&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-阿姆斯特朗球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：法国vs冰岛
 http://8.153.173.168/php/bingcty.php?id=64&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-大看台球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-WTT阿拉木图常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛-黄石组合混双冲4强-钱天一三线作战-周泽昊-周冠达
 http://8.153.173.168/php/bingcty.php?id=65&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-17号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-WTT阿拉木图常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛-黄石组合混双冲4强-钱天一三线作战-1号桌
 http://8.153.173.168/php/bingcty.php?id=66&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-5号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-WTT阿拉木图常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛-黄石组合混双冲4强-钱天一三线作战-2号桌
 http://8.153.173.168/php/bingcty.php?id=67&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-4号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-WTT阿拉木图常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛-黄石组合混双冲4强-钱天一三线作战-3号桌
 http://8.153.173.168/php/bingcty.php?id=68&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-6号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日14:00-WTT阿拉木图常规挑战赛：男女单打1/8决赛、双打1/4决赛及混双半决赛-黄石组合混双冲4强-钱天一三线作战-英文解说
 http://8.153.173.168/php/bingcty.php?id=69&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-7号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日15:00-赛车-2025赛季MotoGP加泰罗尼亚大奖赛周五练习时段1
 http://8.153.173.168/php/bingcty.php?id=70&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-8号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日16:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：法国vs冰岛
 http://8.153.173.168/php/bingcty.php?id=71&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-9号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-无畏契约进化者杯系列赛第三幕半决赛-TECvsFPX
 http://8.153.173.168/php/bingcty.php?id=72&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-10号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-总决赛-打出名堂2025-最终试炼
 http://8.153.173.168/php/bingcty.php?id=73&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-11号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-斯诺克北爱尔兰公开赛资格赛第一轮-常冰玉PK江俊-高阳出战-1号桌
 http://8.153.173.168/php/bingcty.php?id=74&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-12号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-斯诺克北爱尔兰公开赛资格赛第一轮-常冰玉PK江俊-高阳出战-朱蒙
 http://8.153.173.168/php/bingcty.php?id=75&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-13号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-斯诺克北爱尔兰公开赛资格赛第一轮-常冰玉PK江俊-高阳出战-2号桌
 http://8.153.173.168/php/bingcty.php?id=76&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-14号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-斯诺克北爱尔兰公开赛资格赛第一轮-常冰玉PK江俊-高阳出战-3号桌
 http://8.153.173.168/php/bingcty.php?id=77&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-15号球场-现场原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:00-斯诺克北爱尔兰公开赛资格赛第一轮-常冰玉PK江俊-高阳出战-4号桌
 http://8.153.173.168/php/bingcty.php?id=78&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-男篮欧洲杯A组小组赛-捷克vs拉脱维亚-王兆丰-苏群-婧雯
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-官方解说
 http://8.153.173.168/php/bingcty.php?id=79&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-男篮欧洲杯A组小组赛-捷克vs拉脱维亚-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-清流
 http://8.153.173.168/php/bingcty.php?id=80&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-阿利亚西姆vs德米纳尔-解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-明星视角1
 http://8.153.173.168/php/bingcty.php?id=81&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-路易斯阿姆斯特朗球场-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-明星视角2
 http://8.153.173.168/php/bingcty.php?id=82&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-阿瑟阿什球场-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-明星视角3
 http://8.153.173.168/php/bingcty.php?id=83&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-阿瑟阿什球场-英文解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日17:10-2025PEL夏季赛-季后赛-第二天-2025PEL夏季赛-季后赛-第二天-地图流
 http://8.153.173.168/php/bingcty.php?id=84&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-17号球场-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第2比赛日
 http://8.153.173.168/php/bingcty.php?id=85&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-11号球场-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第2比赛日-KSG.吒宝
 http://8.153.173.168/php/bingcty.php?id=86&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-12号球场-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第2比赛日-4AM.Mingskr
 http://8.153.173.168/php/bingcty.php?id=87&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-穆霍娃vs大坂直美-解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:00-和平精英PEL季后赛-2025PEL夏季赛季后赛第2比赛日-DRG.神森森
 http://8.153.173.168/php/bingcty.php?id=88&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-穆霍娃vs大坂直美-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：西班牙vs希腊
 http://8.153.173.168/php/bingcty.php?id=89&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-穆霍娃vs大坂直美-英文解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日18:30-超三联赛-屈原故里秭归争霸赛-开幕式及小组赛Day1晚间场-李嘉伟-王冠证
 http://8.153.173.168/php/bingcty.php?id=90&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-辛纳vs穆塞蒂-解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:15-赛车-2025赛季MotoGP加泰罗尼亚大奖赛周五练习时段2
 http://8.153.173.168/php/bingcty.php?id=91&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-辛纳vs穆塞蒂-清流-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-F1意大利站-F1意大利大奖赛第一次练习赛-邱超
 http://8.153.173.168/php/bingcty.php?id=92&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单1/4决赛、男双1/4决赛、女双半决赛：FAA对决德米纳尔-斯瓦泰克冲四强-FAA对决德米纳尔-斯瓦泰克冲四强-辛纳vs穆塞蒂-英文解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-F1意大利站-F1意大利大奖赛第一次练习赛-维修区
 http://8.153.173.168/php/bingcty.php?id=93&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-男篮欧洲杯B组小组赛-立陶宛vs瑞典-金浩霆
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-F1意大利站-F1意大利大奖赛第一次练习赛-车载镜头
 http://8.153.173.168/php/bingcty.php?id=94&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-男篮欧洲杯B组小组赛-立陶宛vs瑞典-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-F1意大利站-F1意大利大奖赛第一次练习赛-圈速信息
 http://8.153.173.168/php/bingcty.php?id=95&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-2025斯诺克西安大奖赛资格赛Day3晚间场回放：丹尼尔·威尔斯5-1肯·达赫迪
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-F1意大利站-F1意大利大奖赛第一次练习赛-车手位置
 http://8.153.173.168/php/bingcty.php?id=96&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-2025斯诺克西安大奖赛资格赛Day3晚间场回放：斯科特·唐纳森5-1罗比·麦圭根
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-长沙勇胜vs合肥狂风峻茂
 http://8.153.173.168/php/bingcty.php?id=97&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-2025斯诺克西安大奖赛资格赛Day3晚间场回放：林杉峰1-5傅家俊
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-2025武汉城市足球超级联赛-2025武汉城市足球超级联赛-第四轮-汉阳区-vs-经开区
 http://8.153.173.168/php/bingcty.php?id=98&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-2025斯诺克西安大奖赛资格赛Day3晚间场回放：林杉峰1-5傅家俊-柏林-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-精选回顾-2024美网女单半决赛：纳瓦罗VS萨巴伦卡-精选回顾：纳瓦罗VS萨巴伦卡-刘钟鸣
 http://8.153.173.168/php/bingcty.php?id=99&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日20:00美网-2025早安美网-第10期-陈君乐-莉宝
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-解说
 http://8.153.173.168/php/bingcty.php?id=100&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:45-男篮欧洲杯A组小组赛-爱沙尼亚vs葡萄牙-胡鹤明
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-清流播出
 http://8.153.173.168/php/bingcty.php?id=101&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:45-男篮欧洲杯A组小组赛-爱沙尼亚vs葡萄牙-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-诸暨VS庆元-诸暨VS庆元-诸暨VS庆元
 http://8.153.173.168/php/bingcty.php?id=102&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30U23亚洲杯-中国U23vs东帝汶U23
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-台州VS舟山-台州VS舟山-台州VS舟山
 http://8.153.173.168/php/bingcty.php?id=103&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-长沙勇胜vs合肥狂风峻茂
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-温州VS嘉兴经开区-温州VS嘉兴经开区-温州VS嘉兴经开区
 http://8.153.173.168/php/bingcty.php?id=104&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-精选回顾-2024美网女单1/4决赛：斯瓦泰克VS佩古拉-精选回顾：斯瓦泰克VS佩古拉-张文悦
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日19:30-汉超第4轮-汉阳区vs经开区-汉超第4轮-汉阳区vs经开区-2025武汉城市足球超级联赛:-汉超第4轮-汉阳区vs经开区
 http://8.153.173.168/php/bingcty.php?id=105&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-全场回放-官方解说-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日20:00美网-2025早安美网-第12期-陈君乐-莉宝
 http://8.153.173.168/php/bingcty.php?id=106&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-全场回放-原声-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日20:00-欧洲杯经典赛事-男篮欧洲杯精彩回顾：西班牙vs希腊
 http://8.153.173.168/php/bingcty.php?id=107&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日18:30-男篮欧洲杯B组小组赛-黑山共和国vs英国-王子星
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日23:00-F1意大利站-F1意大利大奖赛第二次练习赛-邱超
 http://8.153.173.168/php/bingcty.php?id=108&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日18:30-男篮欧洲杯B组小组赛-黑山共和国vs英国-英文原声
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日23:00-F1意大利站-F1意大利大奖赛第二次练习赛-维修区
 http://8.153.173.168/php/bingcty.php?id=109&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-斯蒂芬·马奎尔5-2白雨露-乔迁-
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日23:00-F1意大利站-F1意大利大奖赛第二次练习赛-车载镜头
 http://8.153.173.168/php/bingcty.php?id=110&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-斯蒂芬·马奎尔5-2白雨露
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日23:00-F1意大利站-F1意大利大奖赛第二次练习赛-圈速信息
 http://8.153.173.168/php/bingcty.php?id=111&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-侯赛因·瓦菲0-5江俊
+#EXTINF:-1 group-title="实况体育" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月5日23:00-F1意大利站-F1意大利大奖赛第二次练习赛-车手位置
 http://8.153.173.168/php/bingcty.php?id=112&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-2025斯诺克西安大奖赛资格赛Day3下午场回放：巴里·霍金斯5-0哈特姆·亚辛
-http://8.153.173.168/php/bingcty.php?id=113&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-2025斯诺克西安大奖赛资格赛Day3下午场回放：庞俊旭3-5王雨晨
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:55世欧预-立陶宛vs马耳他
 http://8.153.173.168/php/bingcty.php?id=114&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-2025斯诺克西安大奖赛资格赛Day3下午场回放：亚伦·希尔5-2刘文炜
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:55世欧预-格鲁吉亚vs土耳其
 http://8.153.173.168/php/bingcty.php?id=115&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-马克·戴维斯5-1瑞安·埃文斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:00-男篮欧洲杯D组小组赛-以色列vs斯洛文尼亚-王子星-王仕鹏-果果
 http://8.153.173.168/php/bingcty.php?id=116&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-吉米·罗伯逊5-2张家玮
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日23:00-男篮欧洲杯D组小组赛-以色列vs斯洛文尼亚-英文原声
 http://8.153.173.168/php/bingcty.php?id=117&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-一号桌
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日21:55世欧预-哈萨克斯坦vs威尔士
 http://8.153.173.168/php/bingcty.php?id=118&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-二号桌
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-下午场-周泽昊、周冠达-
 http://8.153.173.168/php/bingcty.php?id=119&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-三号桌
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-一号桌-一-
 http://8.153.173.168/php/bingcty.php?id=120&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-四号桌
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-二号桌-一-
 http://8.153.173.168/php/bingcty.php?id=121&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日-12:00-早安美网-第10期-早安美网-第10期-早安美网-第10期
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-三号桌-一-
 http://8.153.173.168/php/bingcty.php?id=122&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-三-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-四号桌-一-
 http://8.153.173.168/php/bingcty.php?id=123&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:30-WTT阿拉木图常规挑战赛：男女单打1/16决赛、双打1/8决赛-钱天一让二追三-黄友政横扫晋级-全场回放-英文解说-一-
 http://8.153.173.168/php/bingcty.php?id=124&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00美网-2025早安美网-第11期
 http://8.153.173.168/php/bingcty.php?id=125&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-纽约自由人vs金州瓦尔基里-丁楠
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯D组小组赛-法国vs冰岛-王嘉琦-李克
 http://8.153.173.168/php/bingcty.php?id=126&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-纽约自由人vs金州瓦尔基里-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯D组小组赛-法国vs冰岛-英文原声
 http://8.153.173.168/php/bingcty.php?id=127&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-印第安纳狂热vs菲尼克斯水星-段冉
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯C组小组赛-波斯尼亚和黑塞哥维那vs格鲁吉亚-石楷文
 http://8.153.173.168/php/bingcty.php?id=128&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-印第安纳狂热vs菲尼克斯水星-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日20:00-男篮欧洲杯C组小组赛-波斯尼亚和黑塞哥维那vs格鲁吉亚-英文原声
 http://8.153.173.168/php/bingcty.php?id=129&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日08:00美网-2025美网1/4决赛-德约vs弗里茨-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-香港金牛vs石家庄翔蓝
 http://8.153.173.168/php/bingcty.php?id=130&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯D组小组赛-法国vs波兰-石楷文
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-精选回顾-2024美网男单1/4决赛：辛纳VS梅德韦杰夫-精选回顾：辛纳VS梅德韦杰夫-李宁-邱超
 http://8.153.173.168/php/bingcty.php?id=131&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯D组小组赛-法国vs波兰-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL半决赛-香港金牛-VS-石家庄翔蓝-全场回放-官方解说-
 http://8.153.173.168/php/bingcty.php?id=132&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯C组小组赛-意大利vs西班牙-孔祥宇
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-NBL半决赛-香港金牛-VS-石家庄翔蓝-全场回放-原声-
 http://8.153.173.168/php/bingcty.php?id=133&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯C组小组赛-意大利vs西班牙-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-苍南82:57普陀-苍南82:57普陀-苍南VS普陀
 http://8.153.173.168/php/bingcty.php?id=134&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-约翰·希金斯3-5利亚姆·普伦
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日19:30-杭州98:66湖州-杭州98:66湖州-杭州VS湖州
 http://8.153.173.168/php/bingcty.php?id=135&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-马修·史蒂文斯5-0伊安·伯恩斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-官方解说
 http://8.153.173.168/php/bingcty.php?id=136&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-杰米·琼斯5-1康诺·本齐
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-清流
 http://8.153.173.168/php/bingcty.php?id=137&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-乔丹·布朗5-1奥利弗·布朗
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角1
 http://8.153.173.168/php/bingcty.php?id=138&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-卢卡·布雷切尔-退赛-0-3阿卡尼·宋沙瓦
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角2
 http://8.153.173.168/php/bingcty.php?id=139&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-汤姆·福德3-5黄佳浩
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-明星视角3
 http://8.153.173.168/php/bingcty.php?id=140&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-本·沃拉斯顿3-5迪伦·埃莫里
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日17:10-2025PEL夏季赛-季后赛-第一天-2025PEL夏季赛-季后赛-第一天-地图流
 http://8.153.173.168/php/bingcty.php?id=141&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日01:20美网-2025美网1/4决赛-阿尔卡拉斯vs莱赫卡-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日-12:00-早安美网-第11期-早安美网-第11期-早安美网-第11期
 http://8.153.173.168/php/bingcty.php?id=142&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:30美网-2025美网第10日-阿瑟·阿什球场-现场原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日11:00-WTA125长沙站第四日-WTA125长沙站第四日-2025WTA125长沙站第四日全场回放-二-
 http://8.153.173.168/php/bingcty.php?id=143&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:30美网-2025美网1/4决赛-佩古拉vs克赖吉科娃
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日11:00-WTA125长沙站第四日-WTA125长沙站第四日-2025WTA125长沙站第四日全场回放-一-
 http://8.153.173.168/php/bingcty.php?id=144&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:15-男篮欧洲杯C组小组赛-塞浦路斯vs格鲁吉亚-寇逸豪
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日-10:30-咪咕体育日报-之英超转会盘点-咪咕体育日报-之英超转会盘点-全场回放-孙雨轩、吴桐、马世雪-
 http://8.153.173.168/php/bingcty.php?id=145&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:15-男篮欧洲杯C组小组赛-塞浦路斯vs格鲁吉亚-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日09:30美网-2025美网1/4决赛-辛纳vs穆塞蒂-中文-
 http://8.153.173.168/php/bingcty.php?id=146&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-国际信号
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日08:00-WNBA常规赛-康涅狄格阳光vs芝加哥天空
 http://8.153.173.168/php/bingcty.php?id=147&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-阿姆斯特朗球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日07:30-WNBA常规赛-洛杉矶火花vs亚特兰大梦想
 http://8.153.173.168/php/bingcty.php?id=148&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-大看台球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日07:00美网-2025美网1/4决赛-穆霍娃vs大坂直美-中文-
 http://8.153.173.168/php/bingcty.php?id=149&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-17号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日04:10美网-2025美网1/4决赛-阿尼西莫娃vs斯瓦泰克-中文-
 http://8.153.173.168/php/bingcty.php?id=150&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-5号球场-现场原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日02:15-男篮欧洲杯A组小组赛-土耳其vs塞尔维亚-王嘉琦
 http://8.153.173.168/php/bingcty.php?id=151&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-4号球场-现场原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日02:15-男篮欧洲杯A组小组赛-土耳其vs塞尔维亚-英文原声
 http://8.153.173.168/php/bingcty.php?id=152&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-6号球场-现场原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日01:30-男篮欧洲杯B组小组赛-芬兰vs德国-孔祥宇
 http://8.153.173.168/php/bingcty.php?id=153&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-7号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月4日01:30-男篮欧洲杯B组小组赛-芬兰vs德国-英文原声
 http://8.153.173.168/php/bingcty.php?id=154&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-8号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:30美网-2025美网1/4决赛-阿利亚西姆vs德米纳尔-中文-
 http://8.153.173.168/php/bingcty.php?id=155&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-9号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:30美网-2025美网第11日-阿瑟·阿什球场
 http://8.153.173.168/php/bingcty.php?id=156&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-10号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-国际信号
 http://8.153.173.168/php/bingcty.php?id=157&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-11号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-阿姆斯特朗球场
 http://8.153.173.168/php/bingcty.php?id=158&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-12号球场-现场原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-大看台球场
 http://8.153.173.168/php/bingcty.php?id=159&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-13号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-17号球场
 http://8.153.173.168/php/bingcty.php?id=160&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-14号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-5号球场
 http://8.153.173.168/php/bingcty.php?id=161&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00美网-2025美网第10日-15号球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-4号球场
 http://8.153.173.168/php/bingcty.php?id=162&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-男篮欧洲杯D组小组赛-冰岛vs斯洛文尼亚-彭磊-管维佳-炼炼
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-6号球场
 http://8.153.173.168/php/bingcty.php?id=163&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-男篮欧洲杯D组小组赛-冰岛vs斯洛文尼亚-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-7号球场
 http://8.153.173.168/php/bingcty.php?id=164&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-德约科维奇3-1弗里茨-刘钟鸣-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-8号球场-现场原声
 http://8.153.173.168/php/bingcty.php?id=165&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-莱赫卡0-3阿尔卡拉斯-李宁-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-9号球场
 http://8.153.173.168/php/bingcty.php?id=166&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-佩古拉2-0克雷吉茨科娃-单文强-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-10号球场
 http://8.153.173.168/php/bingcty.php?id=167&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-西尼亚科娃/汤森德2-0费尔南德斯/大威廉姆斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-11号球场
 http://8.153.173.168/php/bingcty.php?id=168&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-穆罕默德/舒尔斯0-2埃拉尼/保利尼
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-12号球场
 http://8.153.173.168/php/bingcty.php?id=169&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-巴博斯/史蒂芬妮1-2达布洛斯基/卢特利芙
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-13号球场
 http://8.153.173.168/php/bingcty.php?id=170&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-库德梅托娃/梅尔滕斯2-0米拉·安德列娃/施耐德
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-14号球场
 http://8.153.173.168/php/bingcty.php?id=171&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-斑布里/维纳斯2-0克拉维茨/普伊茨
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00美网-2025美网第11日-15号球场
 http://8.153.173.168/php/bingcty.php?id=172&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-弗兰岑/哈泽2-0埃切韦里/卡拉贝利
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-男篮欧洲杯A组小组赛-捷克vs拉脱维亚-王兆丰-苏群-婧雯
 http://8.153.173.168/php/bingcty.php?id=173&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-施耐特/沃纳1-2杜姆比亚/勒布尔
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-男篮欧洲杯A组小组赛-捷克vs拉脱维亚-英文原声
 http://8.153.173.168/php/bingcty.php?id=174&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-莱赫卡0-3阿尔卡拉斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-辛纳3-0穆塞蒂-刘钟鸣-
 http://8.153.173.168/php/bingcty.php?id=175&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-莱赫卡0-3阿尔卡拉斯-英文解说-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿利亚西姆3-1德米纳尔-乔迁-
 http://8.153.173.168/php/bingcty.php?id=176&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-佩古拉2-0克雷吉茨科娃
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-达布洛斯基/卢特利芙2-0埃拉尼/保利尼
 http://8.153.173.168/php/bingcty.php?id=177&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-佩古拉2-0克雷吉茨科娃-英文解说-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-西尼亚科娃/汤森德2-0库德梅托娃/梅尔滕斯
 http://8.153.173.168/php/bingcty.php?id=178&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-M·冈萨雷斯/莫尔泰尼0-2卡什/格拉斯普尔
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-杜姆比亚/勒布尔0-2卡什/格拉斯普尔
 http://8.153.173.168/php/bingcty.php?id=179&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-龙博利/史密斯1-2梅克蒂奇/拉姆
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-梅克蒂奇/拉姆1-2斑布里/维纳斯
 http://8.153.173.168/php/bingcty.php?id=180&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-杰维茨基/威利斯1-2马哈奇/沃克尔
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-弗兰岑/哈泽1-2格拉诺勒斯/泽巴罗斯
 http://8.153.173.168/php/bingcty.php?id=181&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-2025美国网球公开赛男双第3轮回放：帕夫拉塞克/杰林斯基1-2格拉诺勒斯/泽巴罗斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-萨利斯布里/斯库普斯基2-0马哈奇/沃克尔
 http://8.153.173.168/php/bingcty.php?id=182&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-德约科维奇3-1弗里茨
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-辛纳3-0穆塞蒂-英文解说-
 http://8.153.173.168/php/bingcty.php?id=183&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-德约科维奇3-1弗里茨-英文原声-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-辛纳3-0穆塞蒂
 http://8.153.173.168/php/bingcty.php?id=184&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-回放-萨利斯布里/斯库普斯基2-1尼斯/罗杰·瓦塞林
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿尼西莫娃2-0斯瓦泰克-李宁-
 http://8.153.173.168/php/bingcty.php?id=185&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿尼西莫娃2-0斯瓦泰克
 http://8.153.173.168/php/bingcty.php?id=186&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿尼西莫娃2-0斯瓦泰克-英文解说-
 http://8.153.173.168/php/bingcty.php?id=187&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-英文解说-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-穆霍娃0-2大坂直美-刘钟鸣-
 http://8.153.173.168/php/bingcty.php?id=188&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-英文解说-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-穆霍娃0-2大坂直美
 http://8.153.173.168/php/bingcty.php?id=189&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-清流供审片-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-穆霍娃0-2大坂直美-英文解说-
 http://8.153.173.168/php/bingcty.php?id=190&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-清流供审片-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿利亚西姆3-1德米纳尔
 http://8.153.173.168/php/bingcty.php?id=191&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-英文解说供审片-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-回放-阿利亚西姆3-1德米纳尔-英文解说-
 http://8.153.173.168/php/bingcty.php?id=192&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-阿瑟阿什球场-英文解说供审片-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-阿瑟阿什球场-一-
 http://8.153.173.168/php/bingcty.php?id=193&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-路易斯阿姆斯特朗球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-阿瑟阿什球场-英文解说-一-
 http://8.153.173.168/php/bingcty.php?id=194&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-路易斯阿姆斯特朗球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-阿瑟阿什球场-二-
 http://8.153.173.168/php/bingcty.php?id=195&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-17号球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-阿瑟阿什球场-英文解说-二-
 http://8.153.173.168/php/bingcty.php?id=196&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-17号球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-路易斯阿姆斯特朗球场-一-
 http://8.153.173.168/php/bingcty.php?id=197&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-大看台球场
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-路易斯阿姆斯特朗球场-二-
 http://8.153.173.168/php/bingcty.php?id=198&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-5号球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-11号球场-一-
 http://8.153.173.168/php/bingcty.php?id=199&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-5号球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-11号球场-二-
 http://8.153.173.168/php/bingcty.php?id=200&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-6号球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-12号球场-一-
 http://8.153.173.168/php/bingcty.php?id=201&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-6号球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-12号球场-二-
 http://8.153.173.168/php/bingcty.php?id=202&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-11号球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-17号球场-一-
 http://8.153.173.168/php/bingcty.php?id=203&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-11号球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-全场回放-17号球场-二-
 http://8.153.173.168/php/bingcty.php?id=204&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-12球场-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-Day11-US-OPEN+全场回放-一-
 http://8.153.173.168/php/bingcty.php?id=205&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-全场回放-12球场-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-Day11-US-OPEN+全场回放-二-
 http://8.153.173.168/php/bingcty.php?id=206&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-Day10-US-OPEN+全场回放-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日23:00-美国网球公开赛男女单、男双1/4决赛、女双半决赛：大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-大坂直美2-0穆霍娃-辛纳横扫穆塞蒂-Day11-US-OPEN+全场回放-三-
 http://8.153.173.168/php/bingcty.php?id=207&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-Day10-US-OPEN+全场回放-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-男篮欧洲杯B组小组赛-立陶宛vs瑞典-金浩霆
 http://8.153.173.168/php/bingcty.php?id=208&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日23:00-美国网球公开赛男女单及女双1/4决赛、男双第三轮：萨巴收获退赛礼-德约晋级四强-萨巴收获退赛礼-德约晋级四强-Day10-US-OPEN+全场回放-三-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-男篮欧洲杯B组小组赛-立陶宛vs瑞典-英文原声
 http://8.153.173.168/php/bingcty.php?id=209&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-肖恩·墨菲5-0利亚姆·海菲尔德-朱峰立-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-林杉峰1-5傅家俊-柏林-
 http://8.153.173.168/php/bingcty.php?id=210&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-肖恩·墨菲5-0利亚姆·海菲尔德
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-林杉峰1-5傅家俊
 http://8.153.173.168/php/bingcty.php?id=211&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-塔猜亚·乌努5-1帕特里克·惠兰
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-斯图尔特·宾汉姆5-2杜安·琼斯
 http://8.153.173.168/php/bingcty.php?id=212&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-斯坦·穆迪5-4阿米尔·萨克霍什
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-杰克逊·佩奇5-3萨希尔·纳亚尔
 http://8.153.173.168/php/bingcty.php?id=213&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-马修·塞尔特5-4安东尼·科瓦尔斯基
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-瑞恩·戴5-4罗斯·缪尔
 http://8.153.173.168/php/bingcty.php?id=214&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-迈克尔·霍尔特5-1乌姆特·迪克梅
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-丹尼尔·威尔斯5-1肯·达赫迪
 http://8.153.173.168/php/bingcty.php?id=215&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-伊什普利特·辛格·查达5-0若纳斯·卢斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：林杉峰1-5傅家俊-宾汉姆晋级-林杉峰1-5傅家俊-宾汉姆晋级-回放-斯科特·唐纳森5-1罗比·麦圭根
 http://8.153.173.168/php/bingcty.php?id=216&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日21:30-斯诺克西安大奖赛资格赛-128进64轮次-：墨菲、穆迪、塔猜亚成功晋级-墨菲、穆迪、塔猜亚成功晋级-回放-埃利奥特·斯莱塞5-1利亚姆·格雷姆
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日20:00美网-2025早安美网-第10期
 http://8.153.173.168/php/bingcty.php?id=217&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日20:00美网-2025早安美网-第9期
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:45-男篮欧洲杯A组小组赛-爱沙尼亚vs葡萄牙-胡鹤明
 http://8.153.173.168/php/bingcty.php?id=218&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日20:00-男篮欧洲杯D组小组赛-比利时vs以色列-王嘉琦
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:45-男篮欧洲杯A组小组赛-爱沙尼亚vs葡萄牙-英文原声
 http://8.153.173.168/php/bingcty.php?id=219&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日20:00-男篮欧洲杯D组小组赛-比利时vs以色列-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30U23亚洲杯-中国U23vs东帝汶U23
 http://8.153.173.168/php/bingcty.php?id=220&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日20:00-男篮欧洲杯C组小组赛-希腊vs波斯尼亚和黑塞哥维那-段冉-吴谦
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-长沙勇胜vs合肥狂风峻茂
 http://8.153.173.168/php/bingcty.php?id=221&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日20:00-男篮欧洲杯C组小组赛-希腊vs波斯尼亚和黑塞哥维那-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-精选回顾-2024美网女单1/4决赛：斯瓦泰克VS佩古拉-精选回顾：斯瓦泰克VS佩古拉-张文悦
 http://8.153.173.168/php/bingcty.php?id=222&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:30-NBL全国男子篮球联赛-NBL全国男子篮球联赛-香港金牛vs石家庄翔蓝
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-全场回放-官方解说-
 http://8.153.173.168/php/bingcty.php?id=223&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:30-精选回顾-2024美网女单第4轮：斯瓦泰克VS萨姆索诺娃-精选回顾：斯瓦泰克VS萨姆索诺娃-回放：斯瓦泰克2-0萨姆索诺娃-刘钟鸣-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日19:30-NBL半决赛-长沙勇胜-VS-合肥狂风峻茂-全场回放-原声-
 http://8.153.173.168/php/bingcty.php?id=224&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:30-NBL半决赛-香港金牛-VS-石家庄翔蓝-全场回放-官方解说-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日18:30-男篮欧洲杯B组小组赛-黑山共和国vs英国-王子星
 http://8.153.173.168/php/bingcty.php?id=225&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-一号桌-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日18:30-男篮欧洲杯B组小组赛-黑山共和国vs英国-英文原声
 http://8.153.173.168/php/bingcty.php?id=226&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-一号桌-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-斯蒂芬·马奎尔5-2白雨露-乔迁-
 http://8.153.173.168/php/bingcty.php?id=227&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-二号桌-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-斯蒂芬·马奎尔5-2白雨露
 http://8.153.173.168/php/bingcty.php?id=228&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-二号桌-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-侯赛因·瓦菲0-5江俊
 http://8.153.173.168/php/bingcty.php?id=229&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-三号桌-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-巴里·霍金斯5-0哈特姆·亚辛
 http://8.153.173.168/php/bingcty.php?id=230&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-三号桌-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-庞俊旭3-5王雨晨
 http://8.153.173.168/php/bingcty.php?id=231&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-四号桌-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-亚伦·希尔5-2刘文炜
 http://8.153.173.168/php/bingcty.php?id=232&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日19:00-WTT阿拉木图常规挑战赛：男女单打资格赛第一、二轮-徐奕直落三局-陈俊菘勇闯五局大关-全场回放-四号桌-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-马克·戴维斯5-1瑞安·埃文斯
 http://8.153.173.168/php/bingcty.php?id=233&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-LPL第三赛段骑士之路-JDGvsLGD
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：白雨露2-5马奎尔-江俊5-0横扫瓦菲-白雨露2-5马奎尔-江俊5-0横扫瓦菲-回放-吉米·罗伯逊5-2张家玮
 http://8.153.173.168/php/bingcty.php?id=234&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-斯佳辉5-3常冰玉-乔迁-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-一号桌
 http://8.153.173.168/php/bingcty.php?id=235&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-斯佳辉5-3常冰玉
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-二号桌
 http://8.153.173.168/php/bingcty.php?id=236&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-刘宏宇4-5马特乌斯·巴拉诺夫斯基
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-三号桌
 http://8.153.173.168/php/bingcty.php?id=237&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-张安达4-5法拉赫·阿贾布
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日14:00-WTT阿拉木图常规挑战赛：男女单打资格赛第三轮及双打资格赛-袁励岑直落三局-徐奕晋级正赛-全场回放-四号桌
 http://8.153.173.168/php/bingcty.php?id=238&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-吕昊天5-2斯蒂芬·霍尔沃斯
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日-12:00-早安美网-第10期-早安美网-第10期-早安美网-第10期
 http://8.153.173.168/php/bingcty.php?id=239&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-贺国强5-1赵翰洋
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-一-
 http://8.153.173.168/php/bingcty.php?id=240&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-周跃龙5-2朱利安·勒克莱
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-二-
 http://8.153.173.168/php/bingcty.php?id=241&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日17:00-斯诺克西安大奖赛资格赛-128进64轮次-：斯佳辉5-3常冰玉-许医尘逆转小司机-斯佳辉5-3常冰玉-许医尘逆转小司机-回放-杰克·利索夫斯基4-5许医尘
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:30-WTA125长沙站第三日-WTA125长沙站第三日-2025WTA125长沙站第三日全场回放-三-
 http://8.153.173.168/php/bingcty.php?id=242&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日16:30-JDG-vs-LGD-JDG-vs-LGD-全场回放-JDG-3-0-LGD
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-纽约自由人vs金州瓦尔基里-丁楠
 http://8.153.173.168/php/bingcty.php?id=243&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日-12:00-早安美网-第9期-早安美网-第9期-2025早安美网第九期全场回放
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-纽约自由人vs金州瓦尔基里-英文原声
 http://8.153.173.168/php/bingcty.php?id=244&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日10:30-WTA125长沙站第二日-WTA125长沙站第二日-2025WTA125长沙站第二日全场回放-二-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-印第安纳狂热vs菲尼克斯水星-段冉
 http://8.153.173.168/php/bingcty.php?id=245&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日10:30-WTA125长沙站第二日-WTA125长沙站第二日-2025WTA125长沙站第二日全场回放-三-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日10:00-WNBA常规赛-印第安纳狂热vs菲尼克斯水星-英文原声
 http://8.153.173.168/php/bingcty.php?id=246&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日10:30-WTA125长沙站第二日-WTA125长沙站第二日-2025WTA125长沙站第二日全场回放-一-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日08:00美网-2025美网1/4决赛-德约vs弗里茨-中文-
 http://8.153.173.168/php/bingcty.php?id=247&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日10:00-WNBA常规赛-洛杉矶火花vs西雅图风暴
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯D组小组赛-法国vs波兰-石楷文
 http://8.153.173.168/php/bingcty.php?id=248&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日08:50美网-2025美网第4轮-阿尼西莫娃vs玛雅-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯D组小组赛-法国vs波兰-英文原声
 http://8.153.173.168/php/bingcty.php?id=249&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日08:00-WNBA常规赛-达拉斯飞翼vs明尼苏达山猫
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯C组小组赛-意大利vs西班牙-孔祥宇
 http://8.153.173.168/php/bingcty.php?id=250&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日08:00-WNBA常规赛-达拉斯飞翼vs明尼苏达山猫-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:30-男篮欧洲杯C组小组赛-意大利vs西班牙-英文原声
 http://8.153.173.168/php/bingcty.php?id=251&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日07:40美网-2025美网女双第3轮-汤森德组合vs袁悦组合-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-约翰·希金斯3-5利亚姆·普伦
 http://8.153.173.168/php/bingcty.php?id=252&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日07:00美网-2025美网第4轮-辛纳vs布勃里克-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-马修·史蒂文斯5-0伊安·伯恩斯
 http://8.153.173.168/php/bingcty.php?id=253&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日05:00美网-2025美网女双第3轮-张帅组合vs大威组合-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-杰米·琼斯5-1康诺·本齐
 http://8.153.173.168/php/bingcty.php?id=254&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:20美网-2025美网第4轮-大坂直美vs高芙-中文-
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-乔丹·布朗5-1奥利弗·布朗
 http://8.153.173.168/php/bingcty.php?id=255&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:15-男篮欧洲杯A组小组赛-塞尔维亚vs捷克-王兆丰
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-卢卡·布雷切尔-退赛-0-3阿卡尼·宋沙瓦
 http://8.153.173.168/php/bingcty.php?id=256&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:15-男篮欧洲杯A组小组赛-塞尔维亚vs捷克-英文原声
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-汤姆·福德3-5黄佳浩
 http://8.153.173.168/php/bingcty.php?id=257&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-马克·艾伦5-4米歇尔·曼恩
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：希金斯爆冷出局-汤姆·福德3-5黄佳浩-希金斯爆冷出局-汤姆·福德3-5黄佳浩-回放-本·沃拉斯顿3-5迪伦·埃莫里
 http://8.153.173.168/php/bingcty.php?id=258&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-阿里·卡特5-1阿兰·泰勒
+#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月3日01:20美网-2025美网1/4决赛-阿尔卡拉斯vs莱赫卡-中文-
 http://8.153.173.168/php/bingcty.php?id=259&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-大卫·吉尔伯特5-1克里斯·托顿
-http://8.153.173.168/php/bingcty.php?id=260&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-马丁·奥德奈尔4-5米哈乌·苏巴尔奇克
-http://8.153.173.168/php/bingcty.php?id=261&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-诺鹏·桑卡姆5-2亚历山大·乌尔森巴赫
-http://8.153.173.168/php/bingcty.php?id=262&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-安东尼·麦克吉尔4-5大卫·格雷斯
-http://8.153.173.168/php/bingcty.php?id=263&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日02:00-斯诺克西安大奖赛资格赛-128进64轮次-：马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-马克·艾伦晋级-阿里·卡特5-1阿兰·泰勒-回放-里奇·沃顿5-1利亚姆·戴维斯
-http://8.153.173.168/php/bingcty.php?id=264&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日01:50美网-2025美网女双第3轮-王雅繁组合vs安德烈娃组合
-http://8.153.173.168/php/bingcty.php?id=265&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日01:30-男篮欧洲杯B组小组赛-芬兰vs立陶宛-郑诚
-http://8.153.173.168/php/bingcty.php?id=266&token=1Sepm9J7qusfXVtH
-#EXTINF:-1 group-title="体育回放" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",9月2日01:30-男篮欧洲杯B组小组赛-芬兰vs立陶宛-英文原声
-http://8.153.173.168/php/bingcty.php?id=267&token=1Sepm9J7qusfXVtH
 #EXTINF:-1 group-title="港澳频道" tvg-logo="http://14.103.144.66:5678/data/icon/凤凰资讯.png",凤凰资讯
 http://8.153.173.168/php/fenghuangxiu.php?id=凤凰资讯&token=1Sepm9J7qusfXVtH
 #EXTINF:-1 group-title="港澳频道" tvg-logo="http://14.103.144.66:5678/data/icon/凤凰中文.png",凤凰中文
@@ -783,6 +767,446 @@ http://8.153.173.168/php/fenghuangxiu.php?id=凤凰香港&token=1Sepm9J7qusfXVtH
 http://47.100.16.96:4125/leoxcv/gatsports1/gatsports1.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",更多频道
 http://47.100.16.96:4125/leoxcv/gatsports1/gatsports1.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/翡翠.png",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/RTHK31.png",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/RTHK32.png",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/翡翠.png",翡翠台
+https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/翡翠.png",翡翠台
+https://cdn6.946985.qzz.io/live/fct/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",无线新闻台
+https://cdn6.946985.qzz.io/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",无线新闻台
+https://v2h.946985.qzz.io/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB PLUS
+https://cdn.946985.qzz.io/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/明珠.png",明珠台
+https://cdn.946985.qzz.io/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/明珠.png",明珠台
+https://o12.946985.qzz.io/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HOY TV
+https://cdn6.946985.qzz.io/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HOY TV
+https://cdn.946985.qzz.io/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/VIUTV.png",VIUTV
+https://cdn.946985.qzz.io/live/viu/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",NOW新闻台
+https://cdn.946985.qzz.io/live/now/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TV 31
+https://cdn.946985.qzz.io/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TV 32
+https://cdn.946985.qzz.io/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/澳视澳门.png",澳视澳门
+https://cdn.946985.qzz.io/live/asam/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",澳视卫星
+https://cdn.946985.qzz.io/live/as/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",龙华电影HD
+https://cdn8.946985.qzz.io/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",龙华经典HD
+https://cdn8.946985.qzz.io/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png",龙华卡通
+https://cdn8.946985.qzz.io/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",龙华偶像HD
+https://cdn8.946985.qzz.io/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华日韩.png",龙华日韩
+https://cdn8.946985.qzz.io/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",龙华戏剧HD
+https://cdn8.946985.qzz.io/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",龙华洋片HD
+https://cdn8.946985.qzz.io/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB1
+https://cdn6.946985.qzz.io/live/tvb1/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBJ1.png",TVBJ1
+https://cdn6.946985.qzz.io/live/j1/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png",娱乐新闻台
+https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",翡翠剧集台
+https://cdn6.946985.qzz.io/live/tvbd/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/翡翠.png",翡翠台
+https://v2h.946985.qzz.io/live/hlfct/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB亚洲武侠
+https://v2h.946985.qzz.io/live/yzwx/stream.m3u8
+#EXTINF:-1 group-title="「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVB星河.png",TVB星河
+https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVB翡翠.png",TVB翡翠
+http://iptv.4666888.xyz/iptv.php?id=20066
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB翡翠(新加坡)
+http://iptv.4666888.xyz/iptv.php?id=20067
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB翡翠(马来)
+http://iptv.4666888.xyz/iptv.php?id=20068
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVB无线新闻.png",TVB无线新闻
+http://iptv.4666888.xyz/iptv.php?id=20069
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB无线新闻(北美)
+http://iptv.4666888.xyz/iptv.php?id=20070
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVB明珠.png",TVB明珠
+http://iptv.4666888.xyz/iptv.php?id=20071
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB_Plus
+http://iptv.4666888.xyz/iptv.php?id=20072
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv.php?id=20073
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB生活
+http://iptv.4666888.xyz/iptv.php?id=20074
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ViuTV
+http://iptv.4666888.xyz/iptv.php?id=20075
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ViuTV6
+http://iptv.4666888.xyz/iptv.php?id=20076
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HOY76
+http://iptv.4666888.xyz/iptv.php?id=20077
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HOY77
+http://iptv.4666888.xyz/iptv.php?id=20078
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HOY78
+http://iptv.4666888.xyz/iptv.php?id=20079
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/RTHK31.png",RTHK31
+http://iptv.4666888.xyz/iptv.php?id=20080
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/RTHK32.png",RTHK32
+http://iptv.4666888.xyz/iptv.php?id=20081
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20082
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20083
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20084
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now财经
+http://iptv.4666888.xyz/iptv.php?id=20085
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now星影(粤)
+http://iptv.4666888.xyz/iptv.php?id=20086
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now爆谷(粤)
+http://iptv.4666888.xyz/iptv.php?id=20087
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now星影(国)
+http://iptv.4666888.xyz/iptv.php?id=20088
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now爆谷(国)
+http://iptv.4666888.xyz/iptv.php?id=20089
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now剧集
+http://iptv.4666888.xyz/iptv.php?id=20091
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/天映经典.png",天映经典
+http://iptv.4666888.xyz/iptv.php?id=20114
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",天映经典2
+http://iptv.4666888.xyz/iptv.php?id=20115
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",天映频道
+http://iptv.4666888.xyz/iptv.php?id=20116
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",天映频道2
+http://iptv.4666888.xyz/iptv.php?id=20117
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",PopC电影
+http://iptv.4666888.xyz/iptv.php?id=20118
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",美亚电影(港)
+http://iptv.4666888.xyz/iptv.php?id=20120
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now紫金国际
+http://iptv.4666888.xyz/iptv.php?id=20090
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now直播
+http://iptv.4666888.xyz/iptv.php?id=20093
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now英超1
+http://iptv.4666888.xyz/iptv.php?id=20092
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Now668赛马
+http://iptv.4666888.xyz/iptv.php?id=20094
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB1
+http://iptv.4666888.xyz/iptv.php?id=20095
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBJ1.png",TVBJ1
+http://iptv.4666888.xyz/iptv.php?id=20096
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBE.png",TVBE
+http://iptv.4666888.xyz/iptv.php?id=20097
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB明珠剧集
+http://iptv.4666888.xyz/iptv.php?id=20098
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB翡翠剧集
+http://iptv.4666888.xyz/iptv.php?id=20099
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB黄金华剧
+http://iptv.4666888.xyz/iptv.php?id=20100
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB星河(粤)
+http://iptv.4666888.xyz/iptv.php?id=20101
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB星河(国)
+http://iptv.4666888.xyz/iptv.php?id=20102
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB武侠(粤)
+http://iptv.4666888.xyz/iptv.php?id=20103
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB武侠(国)
+http://iptv.4666888.xyz/iptv.php?id=20104
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVB千禧经典
+http://iptv.4666888.xyz/iptv.php?id=20105
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER黄金翡翠
+http://iptv.4666888.xyz/iptv.php?id=20106
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER经典
+http://iptv.4666888.xyz/iptv.php?id=20107
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER黄金华剧
+http://iptv.4666888.xyz/iptv.php?id=20108
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER亚洲剧
+http://iptv.4666888.xyz/iptv.php?id=20109
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER少儿
+http://iptv.4666888.xyz/iptv.php?id=20110
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER_FREE
+http://iptv.4666888.xyz/iptv.php?id=20111
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER粤语片
+http://iptv.4666888.xyz/iptv.php?id=20112
+#EXTINF:-1 group-title="香港「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MYTV_SUPER戏曲
+http://iptv.4666888.xyz/iptv.php?id=20113
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS新闻.png",TVBS新闻
+http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/三立新闻.png",三立新闻
+http://iptv.4666888.xyz/iptv.php?id=20169
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",三立iNEWS
+http://iptv.4666888.xyz/iptv.php?id=20170
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中视新闻.png",中视新闻
+http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png",台视新闻
+http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中天新闻.png",中天新闻
+http://iptv.4666888.xyz/iptv.php?id=20173
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/东森新闻.png",东森新闻
+http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",东森新闻(美)
+http://iptv.4666888.xyz/iptv.php?id=20175
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/寰宇新闻.png",寰宇新闻
+http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/寰宇新闻台湾.png",寰宇新闻台湾
+http://iptv.4666888.xyz/iptv.php?id=20293
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png",民视新闻
+http://iptv.4666888.xyz/iptv.php?id=20177
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png",年代新闻
+http://iptv.4666888.xyz/iptv.php?id=20178
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/非凡新闻.png",非凡新闻
+http://iptv.4666888.xyz/iptv.php?id=20179
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",摬新闻
+http://iptv.4666888.xyz/iptv.php?id=20180
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",中天CTI+
+http://iptv.4666888.xyz/iptv.php?id=20181
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/民视.png",民视
+http://iptv.4666888.xyz/iptv.php?id=20182
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中视.png",中视
+http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/华视.png",华视
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/公视.png",公视
+http://iptv.4666888.xyz/iptv.php?id=20185
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/台视.png",台视
+http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",中旺电视
+http://iptv.4666888.xyz/iptv.php?id=20187
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TVBS HD
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS欢乐.png",TVBS欢乐
+http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS亚洲.png",TVBS亚洲
+http://iptv.4666888.xyz/iptv.php?id=20190
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS精采.png",TVBS精采
+http://iptv.4666888.xyz/iptv.php?id=20191
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS综艺.png",TVBS综艺
+http://iptv.4666888.xyz/iptv.php?id=20192
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/TVBS台剧.png",TVBS台剧
+http://iptv.4666888.xyz/iptv.php?id=20193
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中天娱乐.png",中天娱乐
+http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中天综合.png",中天综合
+http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中天亚洲.png",中天亚洲
+http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/八大第一.png",八大第一
+http://iptv.4666888.xyz/iptv.php?id=20197
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/八大综合.png",八大综合
+http://iptv.4666888.xyz/iptv.php?id=20198
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/八大戏剧.png",八大戏剧
+http://iptv.4666888.xyz/iptv.php?id=20199
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/八大娱乐.png",八大娱乐
+http://iptv.4666888.xyz/iptv.php?id=20200
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",八大精采
+http://iptv.4666888.xyz/iptv.php?id=20201
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/三立台湾.png",三立台湾
+http://iptv.4666888.xyz/iptv.php?id=20202
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/三立戏剧.png",三立戏剧
+http://iptv.4666888.xyz/iptv.php?id=20203
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/三立综合.png",三立综合
+http://iptv.4666888.xyz/iptv.php?id=20204
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/三立都会.png",三立都会
+http://iptv.4666888.xyz/iptv.php?id=20205
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森综合.png",东森综合
+http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/东森戏剧.png",东森戏剧
+http://iptv.4666888.xyz/iptv.php?id=20207
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",东森超视34.5
+http://iptv.4666888.xyz/iptv.php?id=20208
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/华视新闻.png",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20209
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",东森美洲
+http://iptv.4666888.xyz/iptv.php?id=20210
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/东森电影.png",东森电影
+http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/东森洋片.png",东森洋片
+http://iptv.4666888.xyz/iptv.php?id=20212
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",东森Yoyo
+http://iptv.4666888.xyz/iptv.php?id=20213
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20214
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20215
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视台湾.png",民视台湾
+http://iptv.4666888.xyz/iptv.php?id=20216
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",民事综艺
+http://iptv.4666888.xyz/iptv.php?id=20217
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",民视旅遊
+http://iptv.4666888.xyz/iptv.php?id=20218
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",民视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20219
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png",台视综合
+http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中视经典.png",中视经典
+http://iptv.4666888.xyz/iptv.php?id=20221
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/中视菁采.png",中视菁采
+http://iptv.4666888.xyz/iptv.php?id=20222
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",华艺中文
+http://iptv.4666888.xyz/iptv.php?id=20223
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/智林体育.png",智林体育
+http://iptv.4666888.xyz/iptv.php?id=20224
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/纬来体育.png",纬来体育
+http://iptv.4666888.xyz/iptv.php?id=20225
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/纬来日本.png",纬来日本
+http://iptv.4666888.xyz/iptv.php?id=20226
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/纬来电影.png",纬来电影
+http://iptv.4666888.xyz/iptv.php?id=20227
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/纬来综合.png",纬来综合
+http://iptv.4666888.xyz/iptv.php?id=20228
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/纬来精采.png",纬来精采
+http://iptv.4666888.xyz/iptv.php?id=20229
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png",爱尔达影剧
+http://iptv.4666888.xyz/iptv.php?id=20230
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png",爱尔达综合
+http://iptv.4666888.xyz/iptv.php?id=20231
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/爱尔达体育1.png",爱尔达体育1
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/爱尔达体育2.png",爱尔达体育2
+http://iptv.4666888.xyz/iptv.php?id=20233
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png",爱尔达体育3
+http://iptv.4666888.xyz/iptv.php?id=20234
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",爱尔达体育4
+http://iptv.4666888.xyz/iptv.php?id=20235
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天国际.png",靖天国际台
+http://iptv.4666888.xyz/iptv.php?id=20236
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天卡通.png",靖天卡通
+http://iptv.4666888.xyz/iptv.php?id=20237
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/爱奇艺.png",爱奇艺
+http://iptv.4666888.xyz/iptv.php?id=20238
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/美亚电影.png",美亚电影
+http://iptv.4666888.xyz/iptv.php?id=20239
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华电影.png",龙华电影
+http://iptv.4666888.xyz/iptv.php?id=20240
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华戏剧.png",龙华戏剧
+http://iptv.4666888.xyz/iptv.php?id=20241
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华洋片.png",龙华洋片
+http://iptv.4666888.xyz/iptv.php?id=20242
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png",龙华偶像
+http://iptv.4666888.xyz/iptv.php?id=20243
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华日韩.png",龙华日韩
+http://iptv.4666888.xyz/iptv.php?id=20244
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙华经典.png",龙华经典
+http://iptv.4666888.xyz/iptv.php?id=20245
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png",龙华卡通
+http://iptv.4666888.xyz/iptv.php?id=20246
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/龙祥时代.png",龙祥时代
+http://iptv.4666888.xyz/iptv.php?id=20247
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",好莱乌电影
+http://iptv.4666888.xyz/iptv.php?id=20248
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/HBO.png",HBO
+http://iptv.4666888.xyz/iptv.php?id=20249
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HBO_HD
+http://iptv.4666888.xyz/iptv.php?id=20250
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HBO_Family
+http://iptv.4666888.xyz/iptv.php?id=20251
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HBO_HITS
+http://iptv.4666888.xyz/iptv.php?id=20252
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",HBO-Ignature
+http://iptv.4666888.xyz/iptv.php?id=20253
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",AXN电影
+http://iptv.4666888.xyz/iptv.php?id=20254
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ONE电影
+http://iptv.4666888.xyz/iptv.php?id=20255
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/爱尔达娱乐.png",爱尔达娱乐
+http://iptv.4666888.xyz/iptv.php?id=20303
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/CINEMAX.png",CINEMAX
+http://iptv.4666888.xyz/iptv.php?id=20256
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Star Movies
+http://iptv.4666888.xyz/iptv.php?id=20257
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Animaxa动漫
+http://iptv.4666888.xyz/iptv.php?id=20258
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",Thrill
+http://iptv.4666888.xyz/iptv.php?id=20259
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",欢喜台
+http://iptv.4666888.xyz/iptv.php?id=20260
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MDAX
+http://iptv.4666888.xyz/iptv.php?id=20261
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/CN卡通.png",CN卡通
+http://iptv.4666888.xyz/iptv.php?id=20262
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动1.png",博斯运动1
+http://iptv.4666888.xyz/iptv.php?id=20263
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动2.png",博斯运动2
+http://iptv.4666888.xyz/iptv.php?id=20264
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球2.png",博斯高球2
+http://iptv.4666888.xyz/iptv.php?id=20265
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球1.png",博斯高球1
+http://iptv.4666888.xyz/iptv.php?id=20266
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯网球.png",博斯网球
+http://iptv.4666888.xyz/iptv.php?id=20267
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯无限.png",博斯无限
+http://iptv.4666888.xyz/iptv.php?id=20268
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",WWE摔胶
+http://iptv.4666888.xyz/iptv.php?id=20269
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/亚洲美食.png",亚洲美食
+http://iptv.4666888.xyz/iptv.php?id=20270
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/美食星球.png",美食星球
+http://iptv.4666888.xyz/iptv.php?id=20271
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",TLC亚洲旅游
+http://iptv.4666888.xyz/iptv.php?id=20272
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ASIA亚洲旅游
+http://iptv.4666888.xyz/iptv.php?id=20273
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",阿里郎Ariranga
+http://iptv.4666888.xyz/iptv.php?id=20274
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",ROCK Entertainment
+http://iptv.4666888.xyz/iptv.php?id=20275
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",MTV_Livea
+http://iptv.4666888.xyz/iptv.php?id=20276
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/动物星球.png",动物星球
+http://iptv.4666888.xyz/iptv.php?id=20277
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",新加坡CM+
+http://iptv.4666888.xyz/iptv.php?id=20278
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",BBC_Earth
+http://iptv.4666888.xyz/iptv.php?id=20279
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",BBC_Lifestyle
+http://iptv.4666888.xyz/iptv.php?id=20280
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",新加坡剧乐酷
+http://iptv.4666888.xyz/iptv.php?id=20281
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",新加坡e乐
+http://iptv.4666888.xyz/iptv.php?id=20282
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",History
+http://iptv.4666888.xyz/iptv.php?id=20283
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",新加坡佳乐
+http://iptv.4666888.xyz/iptv.php?id=20289
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",KTSF26(美)
+http://iptv.4666888.xyz/iptv.php?id=20290
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/公视戏剧.png",公视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20292
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖洋戏剧.png",靖洋戏剧
+http://iptv.4666888.xyz/iptv.php?id=20294
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖洋卡通.png",靖洋卡通
+http://iptv.4666888.xyz/iptv.php?id=20295
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天综合.png",靖天综合
+http://iptv.4666888.xyz/iptv.php?id=20296
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天欢乐.png",靖天欢乐
+http://iptv.4666888.xyz/iptv.php?id=20297
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天映画.png",靖天映画
+http://iptv.4666888.xyz/iptv.php?id=20298
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天戏剧.png",靖天戏剧
+http://iptv.4666888.xyz/iptv.php?id=20299
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="http://14.103.144.66:5678/data/icon/靖天电影.png",靖天电影
+http://iptv.4666888.xyz/iptv.php?id=20300
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天育乐.png",靖天育乐
+http://iptv.4666888.xyz/iptv.php?id=20301
+#EXTINF:-1 group-title="台湾「Svip」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天资讯.png",靖天资讯
+http://iptv.4666888.xyz/iptv.php?id=20302
 #EXTINF:-1 group-title="高清电影" tvg-logo="http://14.103.144.66:5678/data/icon/CHC影迷电影.png",CHC影迷电影
 http://8.153.173.168/php/chc.php?id=CHC影迷电影&token=1Sepm9J7qusfXVtH
 #EXTINF:-1 group-title="高清电影" tvg-logo="http://14.103.144.66:5678/data/icon/CHC家庭影院.png",CHC家庭影院
@@ -5253,5 +5677,5 @@ https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
 #EXTINF:-1 group-title="👉必看说明" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",有卡顿请手动切换其他线路
 http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="👉必看说明" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",2025-09-04 更新
+#EXTINF:-1 group-title="👉必看说明" tvg-logo="http://14.103.144.66:5678/data/icon/00.png",2025-09-05 更新
 https://taoiptv.com/time.mp4
