@@ -1,14 +1,3 @@
-#EXTM3U x-tvg-url="http://epg.myxcwh.com:5678/t.xml"
-#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="列表获取时间:09.05 20:29:08" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,列表获取时间:09.05 20:29:08
-http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="续费/售后加微信" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,续费/售后加微信
-http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="Token:1Sepm9J7qusfXVtH(Svip)" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,Token:1Sepm9J7qusfXVtH(Svip)
-http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="开通日期:2025-09-04" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,开通日期:2025-09-04
-http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
-#EXTINF:-1 group-title="账户信息(Svip)" tvg-name="距离到期:29天" tvg-logo="http://121.37.225.175:5678/data/icon/00.png" ,距离到期:29天
-http://47.100.16.96:4125/leoxcv/shouhouwx/shouhouwx.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://14.103.144.66:5678/data/icon/CCTV1.png",CCTV1
 http://8.153.173.168/php/bstaa.php?/PLTV/&id=CCTV1&token=1Sepm9J7qusfXVtH
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://14.103.144.66:5678/data/icon/CCTV2.png",CCTV2
